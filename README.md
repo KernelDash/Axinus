@@ -64,3 +64,6 @@ It uses libevdev to listen for input and grab the device so that inputs don't ge
 
 ## Todo
 - [ ] Add cleaning for `W` and `S` too.
+
+## License
+This program is licensed under the MIT license. For more information check out the `LICENSE` file.
